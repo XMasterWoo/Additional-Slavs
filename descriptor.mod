@@ -9,3 +9,4 @@ tags={
 }
 name="Additional Slavs"
 supported_version="1.12.*"
+path="mod/Additional-Slavs"
