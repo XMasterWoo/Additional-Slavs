@@ -8,4 +8,4 @@ tags={
 	"Gameplay"
 }
 name="Additional Slavs"
-supported_version="1.12.9"
+supported_version="1.12.*"
