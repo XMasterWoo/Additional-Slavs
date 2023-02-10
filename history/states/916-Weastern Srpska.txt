@@ -2,8 +2,16 @@ state={
 	id=916
 	name="STATE_916"
 	provinces={
-		606 953 982 11741 11845 
+		6619 9588 9591 11574
+		
 	}
+	
+	history={
+		add_core_of = BOS
+		add_core_of = SER
+		owner = SER
+	}
+	
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
