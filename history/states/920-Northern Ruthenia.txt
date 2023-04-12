@@ -1,0 +1,16 @@
+state={
+	id=920
+	name="STATE_920"
+	provinces={
+		466 3410 3434 
+	}
+	
+	history={
+	Owner=RUT
+	add_core_of=RUT
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,32 @@
+capital = 73
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+
+set_convoys = 50
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 65
+	fascism = 5
+	communism = 10
+	neutrality = 20
+}
+
+create_country_leader = {
+	name = "John Doe"
+	desc = "A sussy and goofy ahh boi"
+	picture =gfx\leader\XLA/petar.dds
+	ideology = anti_revisionism
+	traits = {
+	}
+}
