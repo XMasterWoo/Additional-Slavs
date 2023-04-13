@@ -1,0 +1,16 @@
+state={
+	id=921
+	name="STATE_921"
+	provinces={
+		514 573 3514 6559 9535 
+	
+	history = {
+		add_core_of = SOR
+		owner = SOR
+	}
+	
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

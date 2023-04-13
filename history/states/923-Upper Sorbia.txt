@@ -1,0 +1,16 @@
+state={
+	id=923
+	name="STATE_923"
+	provinces={
+		9428 9496 11505 
+	}
+	
+	history = {
+		add_core_of = SOR
+		owner = SOR
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

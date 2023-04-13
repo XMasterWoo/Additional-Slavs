@@ -1,2 +1,3 @@
 MRA = "countries/Moravia.txt"
 RUT = "countries/Ruthenia.txt"
+SOR = "countries/Sorbia.txt"
